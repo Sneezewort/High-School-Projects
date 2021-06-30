@@ -1,0 +1,10 @@
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\bin\Debug\WindowsFormRadio1.exe.config
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\bin\Debug\WindowsFormRadio1.exe
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\bin\Debug\WindowsFormRadio1.pdb
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.Form1.resources
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.Properties.Resources.resources
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.csproj.GenerateResource.cache
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.exe
+C:\Users\Haha\source\repos\WindowsFormRadio1\WindowsFormRadio1\obj\Debug\WindowsFormRadio1.pdb

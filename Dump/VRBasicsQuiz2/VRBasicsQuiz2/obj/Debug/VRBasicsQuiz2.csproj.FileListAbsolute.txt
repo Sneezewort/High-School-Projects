@@ -1,0 +1,10 @@
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\bin\Debug\VRBasicsQuiz2.exe.config
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\bin\Debug\VRBasicsQuiz2.exe
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\bin\Debug\VRBasicsQuiz2.pdb
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.Form1.resources
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.Properties.Resources.resources
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.csproj.GenerateResource.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.exe
+C:\Users\Haha\source\repos\VRBasicsQuiz2\VRBasicsQuiz2\obj\Debug\VRBasicsQuiz2.pdb
