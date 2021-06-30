@@ -1,0 +1,13 @@
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.exe
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.deps.json
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.runtimeconfig.json
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.runtimeconfig.dev.json
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.dll
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.pdb
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.AssemblyInfoInputs.cache
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.AssemblyInfo.cs
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.dll
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.pdb
+C:\Users\Haha\source\repos\Day2Demo\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.genruntimeconfig.cache

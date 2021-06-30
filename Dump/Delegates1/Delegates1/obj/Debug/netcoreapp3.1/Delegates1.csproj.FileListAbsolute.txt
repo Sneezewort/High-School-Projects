@@ -1,0 +1,13 @@
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.exe
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.deps.json
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.runtimeconfig.json
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.runtimeconfig.dev.json
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.dll
+C:\Users\Haha\source\repos\Delegates1\Delegates1\bin\Debug\netcoreapp3.1\Delegates1.pdb
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.AssemblyInfoInputs.cache
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.AssemblyInfo.cs
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.dll
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.pdb
+C:\Users\Haha\source\repos\Delegates1\Delegates1\obj\Debug\netcoreapp3.1\Delegates1.genruntimeconfig.cache
