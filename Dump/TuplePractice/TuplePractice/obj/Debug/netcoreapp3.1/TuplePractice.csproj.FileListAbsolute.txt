@@ -1,0 +1,13 @@
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.AssemblyInfoInputs.cache
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.AssemblyInfo.cs
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.exe
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.deps.json
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.runtimeconfig.json
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.runtimeconfig.dev.json
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.dll
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\bin\Debug\netcoreapp3.1\TuplePractice.pdb
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.dll
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.pdb
+C:\Users\Haha\source\repos\TuplePractice\TuplePractice\obj\Debug\netcoreapp3.1\TuplePractice.genruntimeconfig.cache

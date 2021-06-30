@@ -1,0 +1,13 @@
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.exe
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.deps.json
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.runtimeconfig.json
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.runtimeconfig.dev.json
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.dll
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\bin\Debug\netcoreapp3.1\VRBasicsQuiz1.pdb
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.csprojAssemblyReference.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.AssemblyInfoInputs.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.AssemblyInfo.cs
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.csproj.CoreCompileInputs.cache
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.dll
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.pdb
+C:\Users\Haha\source\repos\VRBasicsQuiz1\VRBasicsQuiz1\obj\Debug\netcoreapp3.1\VRBasicsQuiz1.genruntimeconfig.cache
